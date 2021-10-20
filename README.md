@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚩 Interested in small open source projects
+- 📌 Interested in small open source projects
 - 🎓 Currently following the 2nd year of Computer Science @ University of Pisa
 - 📫 How to reach me: www.linkedin.com/in/ncorridori
